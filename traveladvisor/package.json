@@ -1,0 +1,17 @@
+{
+  "name": "traveladvisor",
+  "version": "0.0.1",
+  "private": true,
+  "license" : "MIT",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "moment": "^2.15.0",
+    "react": "15.2.1",
+    "react-fontawesome": "^1.1.0",
+    "react-native": "0.29.2",
+    "react-native-communications": "2.0.0",
+    "react-native-vector-icons": "2.0.2"
+  }
+}
